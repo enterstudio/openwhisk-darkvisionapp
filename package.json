@@ -7,7 +7,7 @@
     "dotenv": "4.0.0",
     "node-zip": "1.1.1",
     "openwhisk": "3.2.1",
-    "request": "2.79.0",
+    "request": "2.84.0",
     "yargs": "6.6.0"
   },
   "devDependencies": {
